@@ -18,7 +18,7 @@
   # output: print 10, 20, 30, 40, 50 with new line
 
   # -------------------- Hash ---------------
-  fruits_hash = { "apple" : 10, "orange" : 5, "banana" : 20 }
+  fruits_hash = { apple: 10, orange: 5, banana: 20 }
 
   # Accessing items in Hash
   fruits_hash.each do |name, qty|
